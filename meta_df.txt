@@ -1,0 +1,273 @@
+Sample_ID	Country	Province	Winery	Grape_variety	Stage
+SP19.2	Spain	Rioja	SP19	Tempranillo	Alcoholic
+SP19.3	Spain	Rioja	SP19	Tempranillo	Alcoholic
+SP19.4	Spain	Rioja	SP19	Tempranillo	Alcoholic
+SP19.1	Spain	Rioja	SP19	Tempranillo	Post-Fermentative
+SP21.1	Spain	Rioja	SP21	Tempranillo	Post-Fermentative
+SP21.2	Spain	Rioja	SP21	Tempranillo	Post-Fermentative
+SP21.3	Spain	Rioja	SP21	Tempranillo	Post-Fermentative
+SP21.4	Spain	Rioja	SP21	Tempranillo	Post-Fermentative
+SP21.5	Spain	Rioja	SP21	Tempranillo	Post-Fermentative
+SP21.6	Spain	Rioja	SP21	Tempranillo	Post-Fermentative
+SP21.7	Spain	Rioja	SP21	Tempranillo	Post-Fermentative
+SP21.8	Spain	Rioja	SP21	Tempranillo	Post-Fermentative
+SP21.9	Spain	Rioja	SP21	Tempranillo	Post-Fermentative
+USA4.7	USA	California	USA4	Sauvignon Blanc	Alcoholic
+USA4.8	USA	California	USA4	Sauvignon Blanc	Alcoholic
+USA4.9	USA	California	USA4	Sauvignon Blanc	Alcoholic
+USA4.10	USA	California	USA4	Sauvignon Blanc	Alcoholic
+USA4.3	USA	California	USA4	Cabernet Sauvignon	Post-Fermentative
+USA4.5	USA	California	USA4	Cabernet Sauvignon	Must
+USA4.1	USA	California	USA4	Cabernet Sauvignon	Alcoholic
+USA4.6	USA	California	USA4	Cabernet Sauvignon	Must
+USA4.2	USA	California	USA4	Cabernet Sauvignon	Alcoholic
+USA4.11	USA	California	USA4	Sauvignon Blanc	Alcoholic
+USA4.12	USA	California	USA4	Sauvignon Blanc	Alcoholic
+USA4.16	USA	California	USA4	Sauvignon Blanc	Must
+USA4.17	USA	California	USA4	Sauvignon Blanc	Must
+USA4.13	USA	California	USA4	Sauvignon Blanc	Alcoholic
+USA4.4	USA	California	USA4	Cabernet Sauvignon	Post-Fermentative
+USA4.14	USA	California	USA4	Sauvignon Blanc	Alcoholic
+USA4.15	USA	California	USA4	Sauvignon Blanc	Alcoholic
+SP17.1	Spain	Galicia	SP17	Treixadura	Must
+SP17.2	Spain	Galicia	SP17	Treixadura	Must
+SP16.4	Spain	Cataluña	SP16	Grenache	Must
+SP16.5	Spain	Cataluña	SP16	Grenache	Must
+SP16.6	Spain	Cataluña	SP16	Grenache	Must
+SP16.7	Spain	Cataluña	SP16	Grenache	Must
+SP16.8	Spain	Cataluña	SP16	Grenache	Must
+SP16.9	Spain	Cataluña	SP16	Grenache	Must
+SP16.10	Spain	Cataluña	SP16	Grenache	Must
+SP16.11	Spain	Cataluña	SP16	Grenache	Must
+SP16.1	Spain	Cataluña	SP16	Carignan	Must
+SP16.2	Spain	Cataluña	SP16	Carignan	Must
+SP16.12	Spain	Cataluña	SP16	Grenache	Must
+SP16.13	Spain	Cataluña	SP16	Grenache	Must
+SP16.14	Spain	Cataluña	SP16	Grenache	Must
+SP16.15	Spain	Cataluña	SP16	Grenache	Must
+SP16.17	Spain	Cataluña	SP16	Other	Must
+SP16.3	Spain	Cataluña	SP16	Carignan	Must
+SP16.16	Spain	Cataluña	SP16	Other	Post-Fermentative
+SP10.2	Spain	Castilla y León	SP10	Verdejo	Alcoholic
+SP10.3	Spain	Castilla y León	SP10	Verdejo	Must
+SP10.4	Spain	Castilla y León	SP10	Verdejo	Must
+SP10.1	Spain	Castilla y León	SP10	Tempranillo	Post-Fermentative
+SP14.5	Spain	Cataluña	SP14	Carignan	Must
+SP14.11	Spain	Cataluña	SP14	Grenache	Must
+SP14.16	Spain	Cataluña	SP14	Syrah	Must
+SP14.7	Spain	Cataluña	SP14	Grenache	Alcoholic
+SP14.13	Spain	Cataluña	SP14	Syrah	Alcoholic
+SP14.2	Spain	Cataluña	SP14	Carignan	Alcoholic
+SP14.8	Spain	Cataluña	SP14	Grenache	Alcoholic
+SP14.3	Spain	Cataluña	SP14	Carignan	Post-Fermentative
+SP14.9	Spain	Cataluña	SP14	Grenache	Post-Fermentative
+SP14.14	Spain	Cataluña	SP14	Syrah	Post-Fermentative
+SP14.10	Spain	Cataluña	SP14	Grenache	Post-Fermentative
+SP14.4	Spain	Cataluña	SP14	Carignan	Post-Fermentative
+SP14.15	Spain	Cataluña	SP14	Syrah	Post-Fermentative
+SP14.1	Spain	Cataluña	SP14	Carignan	Post-Fermentative
+SP14.12	Spain	Cataluña	SP14	Syrah	Post-Fermentative
+SP14.6	Spain	Cataluña	SP14	Grenache	Post-Fermentative
+SP15.4	Spain	Cataluña	SP15	Carignan	Must
+SP15.12	Spain	Cataluña	SP15	Grenache	Must
+SP15.5	Spain	Cataluña	SP15	Carignan	Must
+SP15.1	Spain	Cataluña	SP15	Carignan	Alcoholic
+SP15.2	Spain	Cataluña	SP15	Carignan	Alcoholic
+SP15.3	Spain	Cataluña	SP15	Carignan	Post-Fermentative
+SP15.6	Spain	Cataluña	SP15	Grenache	Alcoholic
+SP15.7	Spain	Cataluña	SP15	Grenache	Alcoholic
+SP15.8	Spain	Cataluña	SP15	Grenache	Alcoholic
+SP15.9	Spain	Cataluña	SP15	Grenache	Alcoholic
+SP15.10	Spain	Cataluña	SP15	Grenache	Alcoholic
+SP15.11	Spain	Cataluña	SP15	Grenache	Alcoholic
+SP15.13	Spain	Cataluña	SP15	Other	Must
+SP1.1	Spain	Aragon	SP1	Other	Alcoholic
+SP1.2	Spain	Aragon	SP1	Other	Alcoholic
+SP1.3	Spain	Aragon	SP1	Other	Alcoholic
+SP1.4	Spain	Aragon	SP1	Other	Alcoholic
+SP1.5	Spain	Aragon	SP1	Other	Alcoholic
+SP1.6	Spain	Aragon	SP1	Other	Alcoholic
+SP1.7	Spain	Aragon	SP1	Other	Alcoholic
+SP1.8	Spain	Aragon	SP1	Other	Alcoholic
+SP4.1	Spain	Castilla y León	SP4	Other	Must
+SP11.12	Spain	Castilla y León	SP11	Verdejo	Must
+SP11.13	Spain	Castilla y León	SP11	Verdejo	Must
+SP11.1	Spain	Castilla y León	SP11	Verdejo	Alcoholic
+SP11.2	Spain	Castilla y León	SP11	Verdejo	Alcoholic
+SP11.3	Spain	Castilla y León	SP11	Verdejo	Alcoholic
+SP11.4	Spain	Castilla y León	SP11	Verdejo	Alcoholic
+SP11.5	Spain	Castilla y León	SP11	Verdejo	Alcoholic
+SP11.14	Spain	Castilla y León	SP11	Verdejo	Must
+SP11.6	Spain	Castilla y León	SP11	Verdejo	Alcoholic
+SP11.7	Spain	Castilla y León	SP11	Verdejo	Alcoholic
+SP11.8	Spain	Castilla y León	SP11	Verdejo	Alcoholic
+SP11.9	Spain	Castilla y León	SP11	Verdejo	Alcoholic
+SP11.10	Spain	Castilla y León	SP11	Verdejo	Alcoholic
+SP11.11	Spain	Castilla y León	SP11	Verdejo	Alcoholic
+USA3.1	USA	California	USA3	Other	Post-Fermentative
+USA3.2	USA	California	USA3	Other	Post-Fermentative
+USA3.3	USA	California	USA3	Other	Post-Fermentative
+USA3.4	USA	California	USA3	Other	Post-Fermentative
+USA3.5	USA	California	USA3	Other	Post-Fermentative
+USA3.6	USA	California	USA3	Other	Post-Fermentative
+USA3.7	USA	California	USA3	Other	Post-Fermentative
+USA3.8	USA	California	USA3	Other	Post-Fermentative
+SP2.3	Spain	Castilla La Mancha	SP2	Other	Must
+SP2.1	Spain	Castilla La Mancha	SP2	Other	Alcoholic
+SP2.2	Spain	Castilla La Mancha	SP2	Other	Alcoholic
+USA5.1	USA	Oregon	USA5	Pinot Noir	Post-Fermentative
+USA5.2	USA	Oregon	USA5	Pinot Noir	Post-Fermentative
+USA5.3	USA	Oregon	USA5	Pinot Noir	Post-Fermentative
+SP18.1	Spain	N/A	SP18	Other	Post-Fermentative
+SP18.2	Spain	N/A	SP18	Other	Post-Fermentative
+FR1.24	France	N/A	FR1		Alcoholic
+FR1.25	France	N/A	FR1		Alcoholic
+FR1.13	France	N/A	FR1	Mourvèdre Noir	Alcoholic
+FR1.1	France	N/A	FR1	Grenache Gris	Alcoholic
+FR1.14	France	N/A	FR1	Mourvèdre Noir	Alcoholic
+FR1.15	France	N/A	FR1	Mourvèdre Noir	Alcoholic
+FR1.16	France	N/A	FR1	Mourvèdre Noir	Alcoholic
+FR1.17	France	N/A	FR1	Mourvèdre Noir	Alcoholic
+FR1.18	France	N/A	FR1	Mourvèdre Noir	Alcoholic
+FR1.4	France	N/A	FR1	Grenache Gris	Post-Fermentative
+FR1.19	France	N/A	FR1	Pinot Noir	Alcoholic
+FR1.7	France	N/A	FR1	Merlot	Alcoholic
+FR1.8	France	N/A	FR1	Merlot	Alcoholic
+FR1.9	France	N/A	FR1	Merlot	Alcoholic
+FR1.2	France	N/A	FR1	Grenache Gris	Alcoholic
+FR1.10	France	N/A	FR1	Merlot	Alcoholic
+FR1.11	France	N/A	FR1	Merlot	Alcoholic
+FR1.12	France	N/A	FR1	Merlot	Alcoholic
+FR1.3	France	N/A	FR1	Grenache Gris	Alcoholic
+FR1.5	France	N/A	FR1	Grenache Gris	Post-Fermentative
+FR1.6	France	N/A	FR1	Grenache Gris	Post-Fermentative
+FR1.26	France	N/A	FR1		Alcoholic
+FR1.27	France	N/A	FR1		Alcoholic
+FR1.28	France	N/A	FR1		Alcoholic
+FR1.20	France	N/A	FR1		Post-Fermentative
+FR1.21	France	N/A	FR1		Post-Fermentative
+FR1.29	France	N/A	FR1		Alcoholic
+FR1.22	France	N/A	FR1		Post-Fermentative
+FR1.23	France	N/A	FR1		Post-Fermentative
+FR1.30	France	N/A	FR1		Alcoholic
+FR1.31	France	N/A	FR1		Alcoholic
+IT1.4	Italy	N/A	IT1	Sangiovese	Alcoholic
+IT1.3	Italy	N/A	IT1	Refosco	Alcoholic
+IT1.5	Italy	N/A	IT1	Sangiovese	Alcoholic
+IT1.2	Italy	N/A	IT1	Cabernet Sauvignon	Alcoholic
+IT1.1	Italy	N/A	IT1	Barbera	Post-Fermentative
+SP13.1	Spain	Castilla y León	SP13	Tinta Pais	Post-Fermentative
+SP6.1	Spain	Castilla y León	SP6	Tempranillo	Post-Fermentative
+SP6.2	Spain	Castilla y León	SP6	Tempranillo	Post-Fermentative
+SP6.3	Spain	Castilla y León	SP6	Tempranillo	Post-Fermentative
+SP6.4	Spain	Castilla y León	SP6	Tempranillo	Post-Fermentative
+USA1.1	USA	California	USA1	Pinot Noir	Post-Fermentative
+USA6.16	USA	Oregon	USA6	Zinfandel	Alcoholic
+USA6.15	USA	Oregon	USA6	Viognier	Alcoholic
+USA6.1	USA	Oregon	USA6	Grenache	Post-Fermentative
+USA6.11	USA	Oregon	USA6	Vermentino	Alcoholic
+USA6.4	USA	Oregon	USA6	Sauvignon Blanc	Alcoholic
+USA6.12	USA	Oregon	USA6	Vermentino	Alcoholic
+USA6.2	USA	Oregon	USA6	Merlot	Alcoholic
+USA6.6	USA	Oregon	USA6	Syrah	Alcoholic
+USA6.8	USA	Oregon	USA6	Tannat	Alcoholic
+USA6.17	USA	Oregon	USA6	Zinfandel	Post-Fermentative
+USA6.10	USA	Oregon	USA6	Tempranillo	Post-Fermentative
+USA6.3	USA	Oregon	USA6	Merlot	Post-Fermentative
+USA6.9	USA	Oregon	USA6	Tannat	Post-Fermentative
+USA6.7	USA	Oregon	USA6	Syrah	Post-Fermentative
+USA6.13	USA	Oregon	USA6	Vermentino	Post-Fermentative
+USA6.14	USA	Oregon	USA6	Vermentino	Post-Fermentative
+USA6.5	USA	Oregon	USA6	Sauvignon Blanc	Post-Fermentative
+SP8.1	Spain	Castilla y León	SP8	Mencia	Alcoholic
+SP8.2	Spain	Castilla y León	SP8	Mencia	Alcoholic
+SP8.3	Spain	Castilla y León	SP8	Mencia	Alcoholic
+SP8.4	Spain	Castilla y León	SP8	Mencia	Alcoholic
+SP8.5	Spain	Castilla y León	SP8	Mencia	Alcoholic
+SP8.6	Spain	Castilla y León	SP8	Mencia	Alcoholic
+SP8.7	Spain	Castilla y León	SP8	Mencia	Alcoholic
+SP8.8	Spain	Castilla y León	SP8	Mencia	Post-Fermentative
+SP8.9	Spain	Castilla y León	SP8	Mencia	Post-Fermentative
+SP8.10	Spain	Castilla y León	SP8	Mencia	Post-Fermentative
+SP8.11	Spain	Castilla y León	SP8	Mencia	Post-Fermentative
+DN1.1	Denmark	N/A	DN1	Pinot Noir	Alcoholic
+DN1.2	Denmark	N/A	DN1	Pinot Noir	Alcoholic
+DN1.3	Denmark	N/A	DN1	Pinot Noir	Alcoholic
+DN1.4	Denmark	N/A	DN1	Pinot Noir	Alcoholic
+DN1.5	Denmark	N/A	DN1	Pinot Noir	Alcoholic
+SP12.2	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.3	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.4	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.5	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.6	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.7	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.8	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.9	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.10	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.11	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.12	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.13	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.14	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.15	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.16	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.17	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.18	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.19	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.20	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.21	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.22	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.23	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.24	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.25	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.26	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.27	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.28	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.29	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.30	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.31	Spain	Castilla y León	SP12	Tempranillo	Alcoholic
+SP12.32	Spain	Castilla y León	SP12	Tempranillo	Post-Fermentative
+SP12.33	Spain	Castilla y León	SP12	Tempranillo	Post-Fermentative
+SP12.1	Spain	Castilla y León	SP12	Tempranillo	Post-Fermentative
+USA2.1	USA	California	USA2	Zinfandel	Alcoholic
+GE1.1	Georgia	Tbilisi	GE1	Other	Post-Fermentative
+GE1.2	Georgia	Tbilisi	GE1	Other	Post-Fermentative
+SP9.2	Spain	Castilla y León	SP9	Rufete	Alcoholic
+SP9.3	Spain	Castilla y León	SP9	Rufete	Alcoholic
+SP9.1	Spain	Castilla y León	SP9	Rufete	Post-Fermentative
+SP3.6	Spain	Castilla y León	SP3	Sauvignon Blanc	Must
+SP3.3	Spain	Castilla y León	SP3	Sauvignon Blanc	Alcoholic
+SP3.4	Spain	Castilla y León	SP3	Sauvignon Blanc	Alcoholic
+SP3.5	Spain	Castilla y León	SP3	Sauvignon Blanc	Alcoholic
+SP3.1	Spain	Castilla y León	SP3	Other	Alcoholic
+SP3.2	Spain	Castilla y León	SP3	Other	Alcoholic
+SP5.1	Spain	Castilla y León	SP5	Other	Post-Fermentative
+SP5.2	Spain	Castilla y León	SP5	Tempranillo	Post-Fermentative
+SP5.3	Spain	Castilla y León	SP5	Tempranillo	Post-Fermentative
+SP5.4	Spain	Castilla y León	SP5	Tempranillo	Post-Fermentative
+SP5.5	Spain	Castilla y León	SP5	Tempranillo	Post-Fermentative
+SP5.6	Spain	Castilla y León	SP5	Tempranillo	Post-Fermentative
+SP5.7	Spain	Castilla y León	SP5	Tempranillo	Post-Fermentative
+SP20.5	Spain	Rioja	SP20	Other	Must
+SP20.6	Spain	Rioja	SP20	Other	Must
+SP20.7	Spain	Rioja	SP20	Other	Must
+SP20.1	Spain	Rioja	SP20	Other	Alcoholic
+SP20.2	Spain	Rioja	SP20	Other	Alcoholic
+SP20.3	Spain	Rioja	SP20	Other	Alcoholic
+SP20.4	Spain	Rioja	SP20	Other	Alcoholic
+SP7.13	Spain	Castilla y León	SP7	Tempranillo	Must
+SP7.14	Spain	Castilla y León	SP7	Tempranillo	Must
+SP7.15	Spain	Castilla y León	SP7	Tempranillo	Must
+SP7.3	Spain	Castilla y León	SP7	Tempranillo	Alcoholic
+SP7.4	Spain	Castilla y León	SP7	Tempranillo	Alcoholic
+SP7.5	Spain	Castilla y León	SP7	Tempranillo	Alcoholic
+SP7.6	Spain	Castilla y León	SP7	Tempranillo	Alcoholic
+SP7.7	Spain	Castilla y León	SP7	Tempranillo	Alcoholic
+SP7.9	Spain	Castilla y León	SP7	Tempranillo	Post-Fermentative
+SP7.10	Spain	Castilla y León	SP7	Tempranillo	Post-Fermentative
+SP7.11	Spain	Castilla y León	SP7	Tempranillo	Post-Fermentative
+SP7.12	Spain	Castilla y León	SP7	Tempranillo	Post-Fermentative
+SP7.1	Spain	Castilla y León	SP7	Tempranillo	Post-Fermentative
+SP7.2	Spain	Castilla y León	SP7	Tempranillo	Post-Fermentative
+SP7.8	Spain	Castilla y León	SP7	Tempranillo	Alcoholic
+SP7.16	Spain	Castilla y León	SP7	Tempranillo	Must
+SP7.17	Spain	Castilla y León	SP7	Tempranillo	Must
