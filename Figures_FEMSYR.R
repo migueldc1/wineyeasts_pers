@@ -7,7 +7,7 @@ library(msa)
 library(phangorn)
 library(ggtree)
 
-setwd("C:/Users/Laboratorio14/Desktop/Miguel/Wineseq_networks/github/")
+setwd("PATH/TO/YOUR/FILES")
 
 #### FIGURE 1
 
