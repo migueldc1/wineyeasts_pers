@@ -27,7 +27,7 @@ veech_prob <- function(asv_df, conf.level = 0.05) {
       j.o <- occ_df[r,c]
       Pobs <- (choose(N, j.o) * choose(N-j.o, N2-j.o) * choose(N-N2, N1-j.o)) / (choose(N, N2) * choose(N, N1))
       
-      # P-values testing if two species co-occur significantly more often that expected
+      # P-values testing if two species co-occur significantly more often than expected
       Pgt <- 0
       for (j.g in occ_df[r,c]+1:N) {
         Pj <- (choose(N, j.g) * choose(N-j.g, N2-j.g) * choose(N-N2, N1-j.g)) / (choose(N, N2) * choose(N, N1))
@@ -35,7 +35,7 @@ veech_prob <- function(asv_df, conf.level = 0.05) {
       }
       p.val_Pgt <- Pgt + Pobs 
       
-      # P-values testing if two species co-occur significantly less often that expected
+      # P-values testing if two species co-occur significantly less often than expected
       Plt <- 0
       for (j.l in 0:occ_df[r,c]-1) {
         Pj <- (choose(N, j.l) * choose(N-j.l, N2-j.l) * choose(N-N2, N1-j.l)) / (choose(N, N2) * choose(N, N1))
